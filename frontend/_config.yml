@@ -1,0 +1,10 @@
+title: ths dashboard
+description: This is the dashboard for the THS investigation
+theme: "just-the-docs"
+# remote_theme: "pmarsceill/just-the-docs"
+baseurl:  "ths-dashboard"
+url: https://moisesrobles-04.github.io
+
+aux_links:
+  GitHub Repository: https://github.com/moisesrobles-04/ths-dashboard
+  
