@@ -2,7 +2,7 @@ title: ths dashboard
 description: This is the dashboard for the THS investigation
 theme: "just-the-docs"
 baseurl:  "ths-superset"
-url: https://moisesrobles-04.github.io
+url: https://moisesrobles-04.github.io/ths-superset
 
 aux_links:
   GitHub Repository: https://github.com/moisesrobles-04/ths-superset
