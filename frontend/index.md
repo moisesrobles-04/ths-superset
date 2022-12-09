@@ -17,7 +17,7 @@ The THS designed to help health officials collect tweets, determine if they are 
 
 More information will be added in the future.
 
-[Users]: https://moisesrobles-04.github.io/ths-dashboard/user
-[Tweets]: https://moisesrobles-04.github.io/ths-dashboard/Tweets
-[Hashtags]: https://moisesrobles-04.github.io/ths-dashboard/hashtags
+[Users]: https://moisesrobles-04.github.io/ths-superset/user
+[Tweets]: https://moisesrobles-04.github.io/ths-superset/Tweets
+[Hashtags]: https://moisesrobles-04.github.io/ths-superset/hashtags
 
