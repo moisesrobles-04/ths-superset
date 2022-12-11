@@ -1,17 +1,17 @@
 ---
-title: Users
-layout: default
-nav_order: 2
+title: "Users"
+layout: page
+permalink: /users
 ---
 
-This is the Users section for the Twitter Health Surveillance (THS) Dashboards. 
+This is the Users section for the Twitter Health Surveillance (THS) Dashboards.
 
 Here we have:
 
 ### User Most Spoken Language
 
-![](assets/most_spoken_languages.png)
+<!-- ![](assets/most_spoken_languages.png)
 
-![](assets/language_pie.png)
+![](assets/language_pie.png) -->
 
 More information will be added later
