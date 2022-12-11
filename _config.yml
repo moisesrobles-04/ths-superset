@@ -1,7 +1,13 @@
 title: THS Dashboard
 description: This is the dashboard for the THS investigation
-theme: "just-the-docs"
+theme: just-the-docs
 url: https://moisesrobles-04.github.io/ths-superset
 
 aux_links:
   GitHub Repository: https://github.com/moisesrobles-04/ths-superset
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+plugins:
+  - jekyll-default-layout
