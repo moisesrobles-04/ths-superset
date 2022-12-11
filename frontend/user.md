@@ -1,8 +1,7 @@
 ---
-title: Users
+title: "Users"
 layout: page
 permalink: /users
-parent: Home
 ---
 
 This is the Users section for the Twitter Health Surveillance (THS) Dashboards.

@@ -1,8 +1,7 @@
 ---
-title: tweets
+title: "Tweets"
 layout: page
 permalink: /tweets
-parent: Home
 ---
 
 This is the tweets section for the Twitter Health Surveillance (THS) Dashboards.

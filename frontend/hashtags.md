@@ -2,7 +2,6 @@
 title: "Hashtags"
 layout: page
 permalink: /hashtags
-parent: Home
 ---
 
 This is the Hashtags section for the Twitter Health Surveillance (THS) Dashboards.
