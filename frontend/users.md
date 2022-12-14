@@ -8,10 +8,5 @@ This is the Users section for the Twitter Health Surveillance (THS) Dashboards.
 
 Here we have:
 
-### User Most Spoken Language
-
-<!-- ![](assets/most_spoken_languages.png)
-
-![](assets/language_pie.png) -->
-
-More information will be added later
+<h1>Top 10 Users that Tweet the Most</h1>
+<iframe src="https://public.tableau.com/views/THS_Dashboard_Users/Top10UsersTweetMost?:embed=y&:display_count=yes&:showVizHome=no" width="100%" height="100%"></iframe>
