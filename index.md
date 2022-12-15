@@ -3,7 +3,7 @@ title: THS Dashboard
 layout: home
 ---
 
-<h1> is a site for the Twitter Health Surveillance (THS) Dashboards. </h1>
+<h1> This is a site for the Twitter Health Surveillance (THS) Dashboards. </h1>
 
 <p> THS designed to help health officials collect tweets, 
     determine if they are related with a medical condition, 

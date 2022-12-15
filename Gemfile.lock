@@ -267,8 +267,8 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  github-pages (~> 227)
-  jekyll (~> 3.9.2)
+  github-pages
+  jekyll
   just-the-docs (= 0.3.3)
   wdm (>= 0.1.0)
   webrick (~> 1.7)
